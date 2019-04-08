@@ -6,4 +6,5 @@
 # Installation
 #### lMSGEN requires the following R packages
 
+* Seurat (2.3.4)
 
