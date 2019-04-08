@@ -14,4 +14,5 @@
 * grid
 * igraph
 * RCy3
+* WGCNA
 
