@@ -3,4 +3,4 @@
 
 * Open-source R package under ‘GPL (version 2 or later)’. Supports R >=3.5.
 
-# Document
+# Installation
