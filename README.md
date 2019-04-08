@@ -4,6 +4,6 @@
 * Open-source R package under ‘GPL (version 2 or later)’. Supports R >=3.5.
 
 # Installation
-####lMSGEN requires the following R packages
+#### lMSGEN requires the following R packages
 
 
