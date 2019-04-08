@@ -7,4 +7,9 @@
 #### lMSGEN requires the following R packages
 
 * Seurat (2.3.4)
+* pathfindR (1.2.3)
+* dplyr
+* Matrix
+* pheatmap
+* grid
 
