@@ -15,4 +15,7 @@
 * igraph
 * RCy3
 * WGCNA
-
+* org.Hs.eg.db
+* clusterProfiler
+* GO.db
+* DOSE
