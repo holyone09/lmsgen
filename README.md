@@ -12,4 +12,6 @@
 * Matrix
 * pheatmap
 * grid
+* igraph
+* RCy3
 
