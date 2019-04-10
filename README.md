@@ -22,4 +22,4 @@
 
 # Workflow
 
-![](https://github.com/holyone09/lmsgen/tree/master/image/workflow.png|width=100)
+![](https://github.com/holyone09/lmsgen/tree/master/image/workflow.png)
