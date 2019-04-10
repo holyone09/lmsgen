@@ -22,5 +22,5 @@
 
 # Workflow
 
-![](./image/workflow.png | width=100)
+![](./image/workflow.png|width=100)
 
