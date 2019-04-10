@@ -22,4 +22,4 @@
 
 # Workflow
 
-<img src="../image/workflow.png" />
+<img src="./image/workflow.png" />
