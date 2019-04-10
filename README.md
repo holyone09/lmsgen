@@ -22,6 +22,6 @@
 
 # Workflow
 
-<img src="./image/workflow.png" width="600" height="400" />
+<img src="./image/workflow.png" width="1000" height="400" />
 
 
