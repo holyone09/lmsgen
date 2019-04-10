@@ -22,4 +22,5 @@
 
 # Workflow
 
-![alt work](https://github.com/holyone09/lmsgen/tree/master/image/workflow.png "workflow")
+![Image]
+(https://github.com/holyone09/lmsgen/tree/master/image/workflow.png)
