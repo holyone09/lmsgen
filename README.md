@@ -22,5 +22,5 @@
 
 # Workflow
 
-![Image]
+![Image of workflow]
 (https://github.com/holyone09/lmsgen/tree/master/image/workflow.png)
