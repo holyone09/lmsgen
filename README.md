@@ -22,4 +22,4 @@
 
 # Workflow
 
-![alt text] (https://github.com/holyone09/lmsgen/tree/master/image/workflow.png "work flow")
+!(https://github.com/holyone09/lmsgen/tree/master/image/workflow.png)
