@@ -22,4 +22,4 @@
 
 # Workflow
 
-<img src="https://github.com/holyone09/lmsgen/tree/master/image/workflow.png" />
+<img src="https://github.com/holyone09/lmsgen/tree/master/image/workflow.png" />![](https://github.com/holyone09/lmsgen/tree/master/image/workflow.png)
