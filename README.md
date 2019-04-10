@@ -21,4 +21,4 @@
 * DOSE
 
 # Workflow
-(https://github.com/holyone09/Imsgen/image/workflow.jpg)
+(https://github.com/holyone09/lmsgen/)
