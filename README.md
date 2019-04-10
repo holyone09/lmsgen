@@ -21,5 +21,5 @@
 * DOSE
 
 # Workflow
-workflow:
-![alt text](https://github.com/holyone09/lmsgen/tree/master/image/workflow.png "workflow")
+
+![alt text] (https://github.com/holyone09/lmsgen/tree/master/image/workflow.png "work flow")
