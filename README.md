@@ -19,6 +19,7 @@
 * clusterProfiler
 * GO.db
 * DOSE
+* TSCAN
 
 # Workflow
 
