@@ -1,5 +1,5 @@
 source("./cig_tools.R")
-GSM2257302_data<-read.delim("/Volumes/Home-IRP$/development/new_method/GSM2257302_All_samples_sc_tpm.txt",header =T ,sep="\t",stringsAsFactors =F)
+GSM2257302_data<-read.delim("dataset/GSM2257302_All_samples_sc_tpm.txt",header =T ,sep="\t",stringsAsFactors =F)
 GSM2257302_data<-subset(GSM2257302_data,GSM2257302_data[,1]!="")
 GSM2257302_data.uni <- unique( GSM2257302_data[ , 1 ] )
 GSM2257302_data.info<-GSM2257302_data[,1:2]
